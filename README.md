@@ -12,7 +12,8 @@
 | [playbooks/PB-00-template.md](playbooks/PB-00-template.md) | Шаблон плейбука |
 | `playbooks/PB-01 … PB-10` | Топ-10 сценариев |
 | `playbooks/PB-S1 … PB-S4` | Реагирование на сработки СЗИ: WAF, NGFW, антивирус, EDR |
-| `reviews/` | Рецензии SOC-аналитика и инженера ИБ на каждый плейбук |
+| `reviews/` | Рецензии SOC-аналитика и инженера ИБ на каждый плейбук (появятся во втором коммите) |
+| [RESOURCES.md](RESOURCES.md) | Готовые плейбуки и инструменты IR на GitHub |
 
 ## Плейбуки
 
